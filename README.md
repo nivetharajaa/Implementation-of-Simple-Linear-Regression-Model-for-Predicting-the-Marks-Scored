@@ -83,39 +83,39 @@ rmse=np.sqrt(mse)
 print("RMSE= ",rmse)
 ```
 ## Output:
-1. df.head()
+### 1. df.head()
 
 ![image](https://github.com/nivetharajaa/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120543388/588a9f8d-96a2-4fb8-b1c6-d47c9b6d56b3)
 
-2.df.tail()
+### 2.df.tail()
 
 ![image](https://github.com/nivetharajaa/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120543388/4b2e0ead-d431-49a2-bbe5-0596f4e65ab5)
 
-3. Array value of X
+### 3. Array value of X
 
 ![image](https://github.com/nivetharajaa/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120543388/6a2874ea-ba26-4ffd-ad37-f34478a9e570)
 
-4. Array value of Y
+### 4. Array value of Y
 
 ![image](https://github.com/nivetharajaa/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120543388/549e40bb-5b61-47b6-90f7-3cce30b57668)
 
-5. Values of Y prediction
+### 5. Values of Y prediction
    
 ![image](https://github.com/nivetharajaa/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120543388/b4bd5a82-a8b9-4777-9e45-598189ea7524)
 
-6.Array values of Y test
+### 6.Array values of Y test
    
 ![image](https://github.com/nivetharajaa/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120543388/806fb86e-dc25-4cd5-b5c9-b9b5be32bd82)
 
-7.Training Set Graph
+### 7.Training Set Graph
 
 ![image](https://github.com/nivetharajaa/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120543388/390e6864-e7cf-4c19-9b03-5d4fe1be1c1d)
 
-8.TEST SET GRAPH
+### 8.TEST SET GRAPH
 
 ![image](https://github.com/nivetharajaa/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120543388/d44d98e7-f496-4366-b3e0-80b191eb4fa5)
 
-9. Values of MSE, MAE and RMSE
+### 9. Values of MSE, MAE and RMSE
 
 ![image](https://github.com/nivetharajaa/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120543388/b8c5e634-8214-4777-87eb-242dd2f800d0)
 
